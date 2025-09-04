@@ -1,9 +1,8 @@
 [general]
-import = ["~/.config/alacritty/themes/alacritty.toml"]
-
+import = ["~/.config/alacritty/themes/rose-pine/dist/rose-pine.toml"]
 [font]
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 size = 11.0
 
 [window]
-opacity = 0.8
+opacity = 0.9
