@@ -6,4 +6,6 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 size = 11.0
 
 [window]
+padding.x = 12
+padding.y = 12
 opacity = 1
