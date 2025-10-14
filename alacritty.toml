@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/tokyo-night.toml"]
+import = ["~/.config/alacritty/themes/rose-pine.toml"]
 
 [font]
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
