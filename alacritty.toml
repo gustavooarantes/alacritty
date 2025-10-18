@@ -1,9 +1,9 @@
 [general]
-import = ["~/.config/alacritty/themes/rose-pine.toml"]
+import = ["~/.config/alacritty/themes/gruvbox.toml"]
 
 [font]
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 size = 11.0
 
 [window]
-opacity = 0.9
+opacity = 1
