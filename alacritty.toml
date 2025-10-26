@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/kanagawa-wave.toml"]
+import = ["~/.config/alacritty/themes/gruvbox.toml"]
 
 [font]
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
@@ -7,3 +7,4 @@ size = 11.0
 
 [window]
 opacity = 1
+dynamic_title = true
