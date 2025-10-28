@@ -3,7 +3,7 @@
 ## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/carbonfox/alacritty.toml
 
 [colors.primary]
-background = "#161616"
+background = "#000000"
 foreground = "#f2f4f8"
 dim_foreground = "#b6b8bb"
 bright_foreground = "#f9fbff"
@@ -69,11 +69,3 @@ blue = "#6690d9"
 magenta = "#a27fd9"
 cyan = "#2b96d9"
 white = "#bebebe"
-
-[[colors.indexed_colors]]
-index = 16
-color = "#3ddbd9"
-
-[[colors.indexed_colors]]
-index = 17
-color = "#ff7eb6"
