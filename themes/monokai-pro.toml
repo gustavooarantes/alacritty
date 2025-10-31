@@ -1,0 +1,69 @@
+# Monokai-Pro Classic - true pitch-black background
+
+[colors.primary]
+background = "#000000"        # pure black
+foreground = "#fdfff1"        # text
+dim_foreground = "#c0c1b5"    # dimmed1
+bright_foreground = "#fdfff1" # text
+
+[colors.cursor]
+text = "#fdfff1"
+cursor = "#c0c1b5"
+
+[colors.vi_mode_cursor]
+text = "#fdfff1"
+cursor = "#66d9ef" # accent5
+
+[colors.search.matches]
+foreground = "#fdfff1"
+background = "#000000" # pitch black
+
+[colors.search.focused_match]
+foreground = "#fdfff1"
+background = "#000000" # pitch black
+
+[colors.footer_bar]
+foreground = "#fdfff1"
+background = "#000000" # pitch black
+
+[colors.hints.start]
+foreground = "#fdfff1"
+background = "#000000" # pitch black
+
+[colors.hints.end]
+foreground = "#fdfff1"
+background = "#000000" # pitch black
+
+[colors.selection]
+text = "#fdfff1"
+background = "#000000" # pitch black
+
+[colors.normal]
+black = "#161613"   # dark2
+red = "#f92672"     # accent1
+green = "#a6e22e"   # accent4
+yellow = "#e6db74"  # accent3
+blue = "#66d9ef"    # accent5
+magenta = "#ae81ff" # accent6
+cyan = "#66d9ef"    # accent5
+white = "#fdfff1"   # text
+
+[colors.bright]
+black = "#1d1e19"   # dark1
+red = "#f92672"
+green = "#a6e22e"
+yellow = "#e6db74"
+blue = "#66d9ef"
+magenta = "#ae81ff"
+cyan = "#66d9ef"
+white = "#fdfff1"
+
+[colors.dim]
+black = "#3b3c35"   # dimmed5
+red = "#f92672"
+green = "#a6e22e"
+yellow = "#e6db74"
+blue = "#66d9ef"
+magenta = "#ae81ff"
+cyan = "#66d9ef"
+white = "#c0c1b5"
