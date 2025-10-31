@@ -8,3 +8,7 @@ size = 11.0
 [window]
 opacity = 1
 dynamic_title = true
+
+[terminal.shell]
+program = "/usr/bin/zsh"
+args = ["-c", "fastfetch; exec zsh"]
