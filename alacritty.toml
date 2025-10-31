@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/monokai-pro.toml"]
+import = ["~/.config/alacritty/themes/nightfox.toml"]
 
 [font]
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
