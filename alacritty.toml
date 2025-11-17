@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/black-catppuccin.toml"]
+import = ["~/.config/alacritty/themes/catppuccin-frappe.toml"]
 
 [font]
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
